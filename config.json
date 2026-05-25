@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterualidate",
+        "uuid": 2500770,
+        "checksum": "ohmju"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
